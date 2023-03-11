@@ -2,7 +2,7 @@
 //  Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма.
 //
 
-string[] array1 = new string[7] { "Anna", "Elena", "Ola", "Tom", "Alex", "Kit", "Sveta" };
+string[] array1 = new string[7] { "Anna", "Elena", "Ola", "Tom", "Alex", "Li", "Sveta" };
 string[] array2 = new string[array1.Length];
 void Find3DigitsArray(string[] array1, string[] array2)
 {
